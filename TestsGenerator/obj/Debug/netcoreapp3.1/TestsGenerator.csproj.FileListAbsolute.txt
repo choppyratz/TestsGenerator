@@ -1,0 +1,9 @@
+C:\Users\German\source\repos\TestsGenerator\bin\Debug\netcoreapp3.1\TestsGenerator.deps.json
+C:\Users\German\source\repos\TestsGenerator\bin\Debug\netcoreapp3.1\TestsGenerator.dll
+C:\Users\German\source\repos\TestsGenerator\obj\Debug\netcoreapp3.1\TestsGenerator.csprojAssemblyReference.cache
+C:\Users\German\source\repos\TestsGenerator\obj\Debug\netcoreapp3.1\TestsGenerator.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\TestsGenerator\obj\Debug\netcoreapp3.1\TestsGenerator.AssemblyInfo.cs
+C:\Users\German\source\repos\TestsGenerator\bin\Debug\netcoreapp3.1\TestsGenerator.pdb
+C:\Users\German\source\repos\TestsGenerator\obj\Debug\netcoreapp3.1\TestsGenerator.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\TestsGenerator\obj\Debug\netcoreapp3.1\TestsGenerator.dll
+C:\Users\German\source\repos\TestsGenerator\obj\Debug\netcoreapp3.1\TestsGenerator.pdb
