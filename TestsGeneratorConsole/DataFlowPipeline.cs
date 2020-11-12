@@ -68,7 +68,7 @@ namespace TestsGeneratorConsole
 
         private async Task<PipelineIO> GenerateTestAsync(PipelineIO file)
         {
-            file.FileContent = await Task.Run(() => new Generator().GenerateUnitTestClass(file.FileContent));
+            file.FileContent = await new Generator().GenerateUnitTestClassAsync(file.FileContent);
             return file;
         }
 

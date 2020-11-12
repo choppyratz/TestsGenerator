@@ -12,12 +12,7 @@ namespace TestsGeneratorConsole
         {
             List<string> files = new List<string>();
             files.Add("test.cs");
-            //using (StreamReader fs = new StreamReader("test.cs"))
-            //{
-            //    //var t = new Generator();
-            //    //t.GenerateUnitTestClass(fs.ReadToEnd());
-            //    //Console.ReadKey();
-            //}
+
             string resultDirectoryPath = "";
             DataFlowPipeline pipeline = new DataFlowPipeline("C:/Users/German/Desktop/res");
             pipeline.SetPipelineParametrs(2, 2, 3);
@@ -37,8 +32,6 @@ namespace TestsGeneratorConsole
             //Console.Write("Write final directory path: ");
             //resultDirectoryPath = Console.ReadLine();
 
-            //var t = new Generator();
-            //t.CreateClass();
             //Console.ReadKey();
         }
     }
